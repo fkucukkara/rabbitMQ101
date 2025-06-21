@@ -8,13 +8,14 @@ This repository is a simple introduction to RabbitMQ using .NET, featuring a bas
 - [Overview](#overview)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
+  - [Cloning the Repository](#cloning-the-repository)
   - [Prerequisites](#prerequisites)
   - [Running RabbitMQ with Docker](#running-rabbitmq-with-docker)
   - [Accessing RabbitMQ Management Portal](#accessing-rabbitmq-management-portal)
   - [Running the Producer](#running-the-producer)
   - [Running the Consumer](#running-the-consumer)
 - [How It Works](#how-it-works)
-- [References](#references)
+- [License](#license)
 
 ---
 
@@ -33,6 +34,14 @@ RabbitMQ101/
 ```
 
 ## Getting Started
+
+### Cloning the Repository
+Clone this repository to your local machine:
+
+```sh
+git clone https://github.com/fkucukkara/rabbitMQ101.git
+cd RabbitMQ101
+```
 
 ### Prerequisites
 - [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/9.0)
