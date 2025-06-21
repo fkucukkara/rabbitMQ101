@@ -1,4 +1,4 @@
-# RabbitMQ101 Playground
+# RabbitMQ101
 
 This repository is a simple introduction to RabbitMQ using .NET, featuring a basic **Producer** and **Consumer** application. It is designed for learning and experimenting with message queues.
 
